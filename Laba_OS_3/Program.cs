@@ -42,6 +42,7 @@ namespace Laba_OS_3
                 }
             }
         }
+
         static void PrintInfo()
         {
             Console.WriteLine();
